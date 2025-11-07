@@ -1,7 +1,7 @@
-# Blender 4.5.3 LTS MTL File: 'BaseD6.blend'
+# Blender 4.5.4 LTS MTL File: 'DiceProjects.blend'
 # www.blender.org
 
-newmtl Material.001
+newmtl MatGeneral
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800181 0.771715 0.771715
